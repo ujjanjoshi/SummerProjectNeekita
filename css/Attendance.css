@@ -1,0 +1,77 @@
+.top{
+    position: absolute;
+    width: 1200px;
+    height: 60px;
+    padding-left: 10px;
+    z-index: -1;
+}
+.top p{
+    font-size: 20px;
+    margin-top: 15px;
+}
+.serch{
+/* margin-top: 5px; */
+/* margin-left: 750px; */
+width: 450px;
+border: 1px solid #000000;
+height: 40px;
+border-radius: 10px;;
+}
+.serch::placeholder{
+    text-align: center;
+}
+.smbtbtn{
+    background: #3ED749;
+border-radius: 10px;
+margin-left: 15px;
+width: 100px;
+height: 40px;
+border: 1px solid #3ED749;
+}
+.table{
+    position: absolute;
+    top: 120px;
+    width: 1365px;
+    height: 79%;
+    z-index: -1;
+    background: black;
+}
+.table p{
+    height: 60px;
+    /* padding-top: 5px; */
+    /* padding-left: 15px; */
+    /* word-spacing: 180px; */
+}
+.yr{
+    width: 90px;
+    height: 35px;
+    border-radius: 5px;
+    background: #E5E5E5;
+    margin-left:10px;
+    margin-right: 10px;
+    margin-top: 12px;
+}
+.mth{
+    width: 90px;
+    height: 35px;
+    margin-left: 5px;
+    border-radius: 5px;
+    margin-right: 220px;
+    background: #E5E5E5;
+    /* margin-left: 50px; */
+}
+.sg{
+    width: 200px;
+    height: 35px;
+    border-radius: 5px;
+    background: #E5E5E5;
+}
+.undr{
+    height: 92.6%;
+    background-color: white;
+}
+.table p{
+    color: white;
+    margin-left: 15px;
+    word-spacing: 500px;
+}
