@@ -1,0 +1,146 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background:linear-gradient(120deg,#2980b9,#8e44ad) ;
+    background-attachment: fixed;
+}
+.container{
+    border-radius: 10px;
+    float: left;
+    height: 450px;
+    width:450px;
+    margin-left: 35%;
+    margin-top: 10%;
+    background-color: white;
+    text-align: center;
+}
+.logo{
+    text-align: center;
+    width: 70px;
+    height: 70px;
+   
+}
+.login_txt{
+    text-decoration-line: underline;
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.select_txt{
+    text-align: left;
+    padding-left: 50px;
+    font-weight: bold;
+    font-size: 12px;
+    padding-bottom: 10px;
+}
+.input_group{
+    text-align: left;
+   
+    padding-left: 50px;
+    font-size: 12px;
+    font-weight: bold;
+    padding-right: 20px;
+    word-spacing: 100px;
+}
+.username{
+    width: 350px;
+    height: 40px;
+    text-align: center;
+    border: 2px solid #2980b9;
+    border-radius: 10px;
+
+}
+.input_group1{
+    padding-bottom: 15px;
+}
+.input_group2{
+    padding-bottom: 25px;
+}
+.password{
+    width: 350px;
+    height: 40px;
+    text-align: center;
+    border: 2px solid #2980b9;
+    border-radius: 10px;
+
+}
+.input_group3{
+    padding-bottom: 30px;
+}
+.loginbtn{
+    width: 350px;
+    height: 40px;
+    background-color: #2980b9;
+    border: 2px solid #2980b9;
+    border-radius: 10px;
+    color: white;
+}
+.fgtbtn{
+    color: #2980b9;
+    text-decoration: none;
+    font-size: 12px;
+}
+/* .container{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    border:1px solid black;
+    transform: translate(-50%,-50%);
+height: 450px;
+width:400px;
+border-radius: 10px;
+} */
+/*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    /* background: linear-gradient(120-deg,#2980b9,#8e44ad); */
+    /* overflow: hidden; */
+    /* height: 100vh; */
+
+/*}
+.container{
+    border:1px solid black;
+} */
+/* .container{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 400px;
+    background: black;
+    border-radius: 15px;
+} */
+/* .login_txt{
+    position: absolute;
+    width: 95px;
+    height: 26px;
+    left: 710px;
+    top: 364px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+    text-decoration-line: underline;
+     color: #000000;
+
+}
+.login_form{
+    position: absolute;
+    width: 637px;
+    height: 569.68px;
+    left: 421px;
+    top: 259px;
+    
+    background: #FFFFFF;
+    border-radius: 15px;
+}
+
+
+ */

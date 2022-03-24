@@ -1,0 +1,54 @@
+.top{
+    position: absolute;
+    width: 1366px;
+    height: 60px;
+    padding-left: 10px;
+    z-index: -1;
+}
+.top span{
+    font-size: 20px;
+}
+.serch{
+margin-top: 6px;
+margin-left: 200px;
+width: 450px;
+border: 1px solid #000000;
+height: 40px;
+border-radius: 10px;;
+}
+.serch::placeholder{
+    text-align: center;
+}
+.smbtbtn{
+    background: #3ED749;
+border-radius: 10px;
+width: 100px;
+height: 40px;
+border: 1px solid #3ED749;
+}
+.btn{
+    background: #B1B9FC;
+border-radius: 10px;
+width: 100px;
+height: 40px;
+margin-left: 150px;
+border: 1px solid #B1B9FC;
+}
+.table{
+    position: absolute;
+    top: 120px;
+    width: 1366px;
+    height: 82%;
+    z-index: -1;
+}
+.table p{
+    background: #C4C4C4;
+    height: 40px;
+    padding-top: 12px;
+    padding-left: 15px;
+    word-spacing: 180px;
+}
+.undr{
+    height: 92.6%;
+    background-color: white;
+}
